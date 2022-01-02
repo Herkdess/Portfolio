@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9acb1a03-0786-49b6-9d2d-0911ca34aae3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio.dir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio.dir/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/.idea/.idea.Main.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/.idea/.idea.Main.dir/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/.idea/.idea.Main.dir/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/.idea/.idea.Main.dir/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/Index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Portfolio.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Portfolio.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +40,8 @@
       <updated>1641071014139</updated>
       <workItem from="1641071016974" duration="212000" />
       <workItem from="1641071272926" duration="243000" />
+      <workItem from="1641129380063" duration="172000" />
+      <workItem from="1641130597196" duration="629000" />
     </task>
     <servers />
   </component>

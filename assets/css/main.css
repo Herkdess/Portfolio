@@ -220,6 +220,7 @@ input, select, textarea {
 
 	h3 {
 		font-size: 1.1em;
+		text-align: center;
 	}
 
 	h4 {
@@ -1994,7 +1995,7 @@ input, select, textarea {
 	}
 
 		.features section {
-			padding: 3.5em 3em 1em 7em ;
+			padding: 10px 10px 10px 10px ;
 			width: 50%;
 			border-top: solid 1px rgba(255, 255, 255, 0.15);
 			position: relative;
